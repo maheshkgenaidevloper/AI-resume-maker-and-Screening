@@ -279,16 +279,6 @@ This project demonstrates practical experience with:
 - PDF generation and CSV reporting.
 - Debugging, dependency management, and GitHub project organization.
 
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/
-- Email: YOUR_EMAIL@example.com
-
-Update these placeholders with your actual profile details.
-
 ## 📄 License
 
 This project is distributed under the MIT License. If you intend to use that license, add a `LICENSE` file containing the standard MIT License text and your copyright information.
